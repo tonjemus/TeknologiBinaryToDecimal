@@ -41,6 +41,6 @@ public class Main {
             result = result + Math.pow(2, i) * userInputArrayList.get(i);
         }
 
-        System.out.println("Decimaltallet til det indtastede binære tal er: " + (int)result);
+        System.out.println("Decimaltallet til det indtastede binæretal er: " + (int)result);
     }
 }
